@@ -44,6 +44,7 @@
 		861A5F8817DFD0C600A8B80E /* PXMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PXMasterViewController.m; sourceTree = "<group>"; };
 		861A5F8A17DFD0C600A8B80E /* PXDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PXDetailViewController.h; sourceTree = "<group>"; };
 		861A5F8B17DFD0C600A8B80E /* PXDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PXDetailViewController.m; sourceTree = "<group>"; };
+		861A5F9217DFDED800A8B80E /* 1.0.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1.0.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -320,9 +321,10 @@
 		861A5F8417DFD0C600A8B80E /* PassingThoughts.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				861A5F9217DFDED800A8B80E /* 1.0.xcdatamodel */,
 				861A5F8517DFD0C600A8B80E /* PassingThoughts.xcdatamodel */,
 			);
-			currentVersion = 861A5F8517DFD0C600A8B80E /* PassingThoughts.xcdatamodel */;
+			currentVersion = 861A5F9217DFDED800A8B80E /* 1.0.xcdatamodel */;
 			path = PassingThoughts.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
